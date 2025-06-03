@@ -15,7 +15,7 @@ We've gone to great lengths to adhere to the **Vue3** community styleguides & be
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
-# What works??&
+# What works?
 
 - [x] [Vite](https://github.com/vitejs/vite)
 - [x] [Composition API](https://composition-api.vuejs.org/)
